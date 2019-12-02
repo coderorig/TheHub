@@ -361,7 +361,7 @@ Random Guy who shouted memes in my face: Yuhoong 'Yeethong' How.''')
         sleep(2)
         
     if hubselect >= '9':
-        print('''Invalid Input
+        print('Invalid Input:',hubselect'''
 
 
 ''')
